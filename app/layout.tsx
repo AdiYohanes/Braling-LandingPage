@@ -105,14 +105,7 @@ const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
   'mainEntity': [
-    {
-      '@type': 'Question',
-      'name': 'Berapa biaya jasa laser cutting di Braling Inti Logam?',
-      'acceptedAnswer': {
-        '@type': 'Answer',
-        'text': 'Biaya dihitung berdasarkan jenis bahan, ketebalan, dan panjang lintasan potong (menit/jarak). Kami menawarkan harga sangat kompetitif. Silakan kirim desain Anda via WhatsApp untuk estimasi gratis.'
-      }
-    },
+
     {
       '@type': 'Question',
       'name': 'Apakah bisa pesan satuan atau harus partai besar?',

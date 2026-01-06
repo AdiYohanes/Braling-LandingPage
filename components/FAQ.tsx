@@ -4,10 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Plus, Minus } from 'lucide-react';
 
 const faqs = [
-  {
-    question: "Berapa biaya jasa laser cutting di Braling Inti Logam?",
-    answer: "Biaya dihitung berdasarkan jenis bahan, ketebalan, dan panjang lintasan potong (menit/jarak). Kami menawarkan harga sangat kompetitif mulai dari Rp X.XXX per menit. Silakan kirim desain Anda via WhatsApp untuk estimasi gratis."
-  },
+
   {
     question: "Apakah bisa pesan satuan atau harus partai besar?",
     answer: "Kami melayani keduanya! Baik Anda butuh 1 unit untuk prototipe/kebutuhan pribadi, maupun produksi massal ribuan unit untuk industri, kami siap kerjakan dengan standar kualitas yang sama."
