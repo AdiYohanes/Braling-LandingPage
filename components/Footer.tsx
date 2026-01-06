@@ -111,7 +111,7 @@ export default function Footer() {
         </div>
         <div className="pt-8 flex flex-col md:flex-row justify-between text-white/40 text-sm">
           <p>&copy; 2026 PT Braling Inti Logam.</p>
-          <p>Designed for Excellence.</p>
+          <p>Designed by <span className="text-white hover:text-accent transition-colors cursor-pointer">Adi Yohanes</span>.</p>
         </div>
       </div>
     </footer>
